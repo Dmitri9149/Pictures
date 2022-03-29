@@ -1,1 +1,1 @@
-![](./Triple1.png | width=100)
+![ScreenShot](./Triple1.png)
